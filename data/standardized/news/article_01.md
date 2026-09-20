@@ -1,0 +1,157 @@
+# Angela Duckworth: Nỗ lực thôi chưa đủ, môi trường cũng quyết định thành công
+
+**Source:** https://tramdoc.vn/tin-tuc/angela-duckworth-no-luc-thoi-chua-du-moi-truong-cung-quyet-dinh-thanh-cong-nNOn3W.html
+
+**Crawled:** 2026-09-20T13:10:28.379672
+
+---
+
+[![tramdoc.vn](https://tramdoc.vn/themes/test_desktop/images/logo.png)](https://tramdoc.vn/)
+  * [](https://tramdoc.vn)
+  * [Thư viện](https://tramdoc.vn/thu-vien-cnz0W.html)
+    * [Sách mới](https://tramdoc.vn/sach-moi)
+    * [Trích dẫn sách](https://tramdoc.vn/tram-trich-dan-cnWoW.html)
+    * [Tóm tắt sách](https://tramdoc.vn/tom-tat-sach)
+    * [Tác giả](https://tramdoc.vn/tin-tuc/tac-gia-cn3pyW.html)
+  * [Điểm sách](https://tramdoc.vn/diem-sach-cnNqW.html)
+    * [Chính trị - Xã hội](https://tramdoc.vn/chinh-tri-xa-hoi-cn1GmW.html)
+    * [Hồi ký - Tiểu sử](https://tramdoc.vn/hoi-ky-tieu-su-cnvzLW.html)
+    * [Triết học - Tôn giáo](https://tramdoc.vn/triet-hoc-ton-giao-cnZN4W.html)
+    * [Lịch sử - Văn hóa](https://tramdoc.vn/lich-su-van-hoa-cnnOqW.html)
+    * [Khoa học - Công Nghệ](https://tramdoc.vn/khoa-hoc-cong-nghe-cn3peW.html)
+    * [Kinh doanh](https://tramdoc.vn/kinh-doanh-cnpV6W.html)
+    * [Tâm lý – Giáo dục](https://tramdoc.vn/tam-ly-%E2%80%93-giao-duc-cnoGRW.html)
+    * [Văn học](https://tramdoc.vn/van-hoc-cn4YbW.html)
+    * [Thiếu Nhi](https://tramdoc.vn/tin-tuc/thieu-nhi-cnK4dW.html)
+  * [Tuyển tập](https://tramdoc.vn/tuyen-tap-cnloW.html)
+    * [Phải đọc](https://tramdoc.vn/phai-doc-cnLYRW.html)
+    * [Phát triển bản thân](https://tramdoc.vn/phat-trien-ban-than-cnqbwW.html)
+    * [Kinh doanh](https://tramdoc.vn/kinh-doanh-cnjyEW.html)
+    * [Cuộc sống](https://tramdoc.vn/cuoc-song-cnd6jW.html)
+  * [Phong cách đọc](https://tramdoc.vn/phong-cach-doc-cnKdW.html)
+    * [Phương pháp đọc](https://tramdoc.vn/phuong-phap-doc-cn8RmW.html)
+    * [Văn hóa đọc](https://tramdoc.vn/van-hoa-doc-cnmn3W.html)
+    * [Cafe sách](https://tramdoc.vn/cafe-sach-cn5jdW.html)
+    * [Tôi đọc gì](https://tramdoc.vn/toi-doc-gi)
+  * [Người thành công đọc gì](https://tramdoc.vn/nguoi-thanh-cong-doc-gi-cnnOpW.html)
+  * [Từ sách đến đời](https://tramdoc.vn/tu-sach-den-doi-cnE5DW.html)
+    * [Phát triển bản thân - Sự nghiệp](https://tramdoc.vn/phat-trien-ban-than-su-nghiep-cn9lxW.html)
+    * [Gia đình - Mối quan hệ](https://tramdoc.vn/gia-dinh-moi-quan-he-cnRlQW.html)
+    * [Sức khỏe](https://tramdoc.vn/suc-khoe-cnMEyW.html)
+    * [Du lịch - giải trí](https://tramdoc.vn/du-lich-giai-tri-cnD2OW.html)
+      * [Thú vui](https://tramdoc.vn/thu-vui-cnpV9W.html)
+      * [Nghệ thuật](https://tramdoc.vn/nghe-thuat-cnYwwW.html)
+      * [Du lịch](https://tramdoc.vn/du-lich-cna3ZW.html)
+      * [Kiến trúc](https://tramdoc.vn/kien-truc-cnwbaW.html)
+    * [Cống hiến xã hội](https://tramdoc.vn/cong-hien-xa-hoi-cnN5bW.html)
+    * [Thursday with Gamma](https://tramdoc.vn/thurday-with-gamma-cnZNmW.html)
+    * [Tâm Linh](https://tramdoc.vn/tin-tuc/tam-linh-cn4dqW.html)
+  * [Sự kiện ](https://tramdoc.vn/su-kien-sach-cn3eW.html)
+  * [](https://tramdoc.vn/rss.html)
+
+
+![Vững tâm bền chí ắt thành công](https://static.tramdoc.vn/image/img.book/0/0/0/4139.jpg?v=1&w=400&h=260&nocache=1)
+Vững tâm bền chí ắt thành công 
+(27 lượt)
+![Angela Duckworth: Nỗ lực thôi chưa đủ, môi trường cũng quyết định thành công](https://static.tramdoc.vn/image/img.news/0/0/0/14805.jpg?v=1&w=628&h=365&nocache=1)
+Angela Duckworth: Nỗ lực thôi chưa đủ, môi trường cũng quyết định thành công
+Angela Duckworth đã dành hơn một thập kỷ để thuyết phục thế giới rằng nỗ lực có thể vượt qua tài năng. Cuốn sách mới của bà khám phá một yếu tố mà lập luận ấy đã bỏ sót. 
+![Vững tâm bền chí ắt thành công](https://static.tramdoc.vn/image/img.book/0/0/0/4139.jpg?v=1&w=400&h=260&nocache=1)
+Vững tâm bền chí ắt thành công 
+(27 lượt)
+“Thiết lập mặc định của thế giới hiện đại, tức tình trạng mà bạn sẽ rơi vào nếu không chủ động thay đổi, là không lành mạnh,” nhà tâm lý học tại Đại học Pennsylvania nói trong tập mới nhất của _Masters of Scale_. “Nếu bạn không chủ động đặt mình vào những môi trường và ở bên những người có lợi cho mình, thì những thiết lập mặc định ấy có thể không phải là điều tốt nhất dành cho bạn.”
+Duckworth nói với người dẫn chương trình Jeff Berman rằng cuốn sách**“Situated: Find the People and Places That Bring Out Your Best”** (tạm dịch: Sức mạnh của môi trường - Tìm kiếm những con người và môi trường giúp bạn phát huy tốt nhất) không phải là sự đối lập với những gì bà từng viết trong cuốn sách đã làm nên tên tuổi của mình - .
+“Thông điệp của Grit là nỗ lực có ý nghĩa, và xét cho cùng, nỗ lực có thể quan trọng hơn tài năng tự nhiên,” bà nói. “Và thông điệp của cuốn sách thứ hai này đó là yếu tố bên ngoài cũng quan trọng, bởi tất cả những nỗ lực đó sẽ mang lại nhiều kết quả hơn… trong một số môi trường, một số nền văn hóa, một số địa điểm, với một số người, mà ở những nơi khác thì kém hiệu quả hơn.”
+Bạn có thể có tất cả sự bền bỉ trên thế giới, nhưng nếu vẫn đang miệt mài trong một căn phòng nơi những nỗ lực ấy không được cộng hưởng và tích lũy thì kết quả sẽ không cao.
+Duckworth đã nghiên cứu về trường hợp của Cody Coleman, người đã gửi email cho bà vào năm 2013 để kể câu chuyện của mình: sinh ra trong một nhà tù gần Trenton, New Jersey, sau đó đạt điểm trung bình gần như tuyệt đối tại MIT, có kỳ thực tập tại Google và lấy bằng tiến sĩ khoa học máy tính tại Stanford. Hiện ông điều hành công ty AI Coactive.
+Theo cách Duckworth mô tả, ông là “hình mẫu của sự bền bỉ”. Nhưng vẫn còn nhiều điều đáng để học hỏi hơn từ ông.
+“Anh ấy đã định hướng bản thân rất có chiến lược, hướng tới những môi trường có thể tận dụng tối đa sự bền bỉ của mình,” Duckworth nói. “Anh ấy sẽ nói với bạn rằng cách duy nhất để đạt được sự tăng trưởng theo cấp số nhân trong quá trình phát triển bản thân là liên tục nhảy từ một hoàn cảnh tốt sang một hoàn cảnh tốt hơn, rồi lại tốt hơn nữa, để rồi không ngừng tiến bộ.”
+Bài học dành cho bất kỳ ai đang xây dựng một đội ngũ là: sự phát triển không chỉ nằm ở việc khiến mọi người nỗ lực nhiều hơn. Điều quan trọng là kiểm tra xem môi trường của họ có biến nỗ lực đó thành tiến bộ hay không.
+Coleman chuyển đến khu vực Bay Area, một ví dụ cho điều mà các nhà kinh tế gọi là hiệu ứng tập trung (agglomeration): sự tập trung của nhân tài khiến mỗi người bên trong hệ sinh thái đó trở nên tốt hơn. Duckworth cũng xây dựng một hệ sinh thái nhỏ như vậy tại Penn cùng Katy Milkman và Adam Grant.
+Bà thẳng thắn về điều này khi nói đến mô hình làm việc phân tán. “Đôi khi mọi người nói: ‘Tôi có thể sống ở bất cứ đâu. Tôi có thể làm việc ở bất cứ đâu.’ Theo một số khía cạnh thực tế, điều đó đúng,” bà nói. “Nhưng đó có thể không phải là điều tốt nhất cho bạn.”
+Lời khuyên của Duckworth rất đơn giản. Hãy viết ra tất cả những điều trong hoàn cảnh hiện tại mà bạn không thể thay đổi. Sau đó, hãy lập danh sách thứ hai:
+“Nếu có bất cứ điều gì trong danh sách những thứ bạn có thể thay đổi – những người bạn có thể dành nhiều thời gian hơn, những đồ vật bạn có thể đặt xa hơn hoặc gần hơn – tôi nghĩ bạn nên bắt đầu lần lượt xem xét từng mục trong danh sách và quan sát xem việc đó thay đổi mọi thứ như thế nào.”
+**_Theo:_**
+Tags:
+## BÌNH LUẬN
+Đọc nhiều
+[35 cuốn sách hay nên đọc trong đời](https://tramdoc.vn/tin-tuc/35-cuon-sach-hay-nen-doc-trong-doi-ndAnW.html)
+03.06.2016
+![35 cuốn sách hay nên đọc trong đời](https://static.tramdoc.vn/image/img.news/0/0/0/467.jpg?v=1&w=480&h=295&nocache=1)
+[Làm chủ cuộc đời: 10 cuốn sách tâm lý nên đọc](https://tramdoc.vn/tin-tuc/lam-chu-cuoc-doi-10-cuon-sach-tam-ly-nen-doc-ngRRW.html)
+16.12.2016
+![Làm chủ cuộc đời: 10 cuốn sách tâm lý nên đọc](https://static.tramdoc.vn/image/img.news/0/0/0/1935.jpg?v=1&w=480&h=295&nocache=1)
+[4 giai đoạn của cuộc đời](https://tramdoc.vn/tin-tuc/4-giai-doan-cua-cuoc-doi-nW5VW.html)
+02.07.2016
+![4 giai đoạn của cuộc đời](https://static.tramdoc.vn/image/img.news/0/0/0/632.jpg?v=1&w=480&h=295&nocache=1)
+[15 cuốn sách nên đọc khi bạn còn trẻ (Phần I)](https://tramdoc.vn/tin-tuc/15-cuon-sach-nen-doc-khi-ban-con-tre-phan-i-nbl9W.html)
+30.04.2016
+![15 cuốn sách nên đọc khi bạn còn trẻ \(Phần I\)](https://static.tramdoc.vn/image/img.news/0/0/0/275.jpg?v=1&w=480&h=295&nocache=1)
+[Mark Zuckerberg phát biểu tại Harvard: Có mục đích sống cho bản thân là chưa đủ, đây mới là việc thế hệ chúng ta cần làm ](https://tramdoc.vn/tin-tuc/mark-zuckerberg-phat-bieu-tai-harvard-co-muc-dich-song-cho-ban-than-la-chua-du-day-moi-la-viec-the-he-chung-ta-can-lam-nLYxwW.html)
+28.05.2017
+![Mark Zuckerberg phát biểu tại Harvard: Có mục đích sống cho bản thân là chưa đủ, đây mới là việc thế hệ chúng ta cần làm ](https://static.tramdoc.vn/image/img.news/0/0/0/3420.jpg?v=1&w=480&h=295&nocache=1)
+FANPAGE
+Mới nhất
+[Khi “truyền miệng” vẫn thắng “thuật toán”: Cách người Canada chọn sách](https://tramdoc.vn/tin-tuc/khi-truyen-mieng-van-thang-thuat-toan-cach-nguoi-canada-chon-sach-n4A3jW.html)
+18.09.2026
+![Khi “truyền miệng” vẫn thắng “thuật toán”: Cách người Canada chọn sách](https://static.tramdoc.vn/image/img.news/0/0/0/14810.jpg?v=1&w=480&h=295&nocache=1)
+[Ra mắt Alpha Publishing Lab: Chương trình đào tạo thực hành dành cho sinh viên quan tâm đến xuất bản và công nghiệp văn hóa](https://tramdoc.vn/tin-tuc/ra-mat-alpha-publishing-lab-chuong-trinh-dao-tao-thuc-hanh-danh-cho-sinh-vien-quan-tam-den-xuat-ban-va-cong-nghiep-van-hoa-nn6M1W.html)
+17.09.2026
+![Ra mắt Alpha Publishing Lab: Chương trình đào tạo thực hành dành cho sinh viên quan tâm đến xuất bản và công nghiệp văn hóa](https://static.tramdoc.vn/image/img.news/0/0/0/14809.jpg?v=1&w=480&h=295&nocache=1)
+[Đặt điện thoại xuống, cầm sách lên: Thư viện 101 tuổi ở Ấn Độ hồi sinh văn hóa đọc](https://tramdoc.vn/tin-tuc/dat-dien-thoai-xuong-cam-sach-len-thu-vien-101-tuoi-o-an-do-hoi-sinh-van-hoa-doc-nlKM1W.html)
+17.09.2026
+![Đặt điện thoại xuống, cầm sách lên: Thư viện 101 tuổi ở Ấn Độ hồi sinh văn hóa đọc](https://static.tramdoc.vn/image/img.news/0/0/0/14808.jpg?v=1&w=480&h=295&nocache=1)
+[9 bài học cuộc sống từ người đàn ông hạnh phúc nhất thế giới](https://tramdoc.vn/tin-tuc/9-bai-hoc-cuoc-song-tu-nguoi-dan-ong-hanh-phuc-nhat-the-gioi-nZ4q1W.html)
+17.09.2026
+![9 bài học cuộc sống từ người đàn ông hạnh phúc nhất thế giới](https://static.tramdoc.vn/image/img.news/0/0/0/14807.jpg?v=1&w=480&h=295&nocache=1)
+[Sách do AI tạo ra đang tràn ngập các sàn bán hàng trực tuyến, ảnh hưởng thu nhập của các tác giả ](https://tramdoc.vn/tin-tuc/sach-do-ai-tao-ra-dang-tran-ngap-cac-san-ban-hang-truc-tuyen-anh-huong-thu-nhap-cua-cac-tac-gia-nGGY2W.html)
+16.09.2026
+![Sách do AI tạo ra đang tràn ngập các sàn bán hàng trực tuyến, ảnh hưởng thu nhập của các tác giả ](https://static.tramdoc.vn/image/img.news/0/0/0/14806.jpg?v=1&w=480&h=295&nocache=1)
+Tags nổi bật
+[first news](https://tramdoc.vn/tag/first-news-d6bEW.html) [sách hay nên đọc](https://tramdoc.vn/tag/sach-hay-nen-doc-eA6W.html) [Sách mới](https://tramdoc.vn/tag/sach-moi-8mW.html) [review sách](https://tramdoc.vn/tag/review-sach-1gW.html) [Tuyển tập sách hay](https://tramdoc.vn/tag/tuyen-tap-sach-hay-nqW.html) [Sách hay](https://tramdoc.vn/tag/sach-hay-oRW.html) [sách tâm lý](https://tramdoc.vn/tag/sach-tam-ly-MLjW.html) [phát triển bản thân](https://tramdoc.vn/tag/phat-trien-ban-than-YMwW.html) [tóm tắt sách](https://tramdoc.vn/tag/tom-tat-sach-waW.html) [điểm sách](https://tramdoc.vn/tag/diem-sach-ZvQW.html) [tâm lý học](https://tramdoc.vn/tag/tam-ly-hoc-4wbW.html) [tình yêu](https://tramdoc.vn/tag/tinh-yeu-YwwW.html) [câu chuyện](https://tramdoc.vn/tag/cau-chuyen-Z64W.html) [đánh giá sách](https://tramdoc.vn/tag/danh-gia-sach-0mmW.html) [Trích dẫn hay](https://tramdoc.vn/tag/trich-dan-hay-2lW.html) [sách self-help](https://tramdoc.vn/tag/sach-self-help-YY0W.html) [Sách hay về cuộc sống](https://tramdoc.vn/tag/sach-hay-ve-cuoc-song-xKW.html) [cuộc sống](https://tramdoc.vn/tag/cuoc-song-6xOW.html) [xa hoi](https://tramdoc.vn/tag/xa-hoi-pK9W.html) [cảm xúc](https://tramdoc.vn/tag/cam-xuc-jlEW.html)
+  * [Tuyển tập](https://tramdoc.vn/tuyen-tap-cnloW.html)
+  * [Phải đọc](https://tramdoc.vn/phai-doc-cnLYRW.html)
+  * [Phát triển bản thân](https://tramdoc.vn/phat-trien-ban-than-cnqbwW.html)
+  * [Kinh doanh](https://tramdoc.vn/kinh-doanh-cnjyEW.html)
+  * [Cuộc sống](https://tramdoc.vn/cuoc-song-cnd6jW.html)
+
+
+  * [Phong cách đọc](https://tramdoc.vn/phong-cach-doc-cnKdW.html)
+  * [Phương pháp đọc](https://tramdoc.vn/phuong-phap-doc-cn8RmW.html)
+  * [Văn hóa đọc](https://tramdoc.vn/van-hoa-doc-cnmn3W.html)
+  * [Cafe sách](https://tramdoc.vn/cafe-sach-cn5jdW.html)
+  * [Tác giả](https://tramdoc.vn/tac-gia-cn3pyW.html)
+
+
+  * [Thư viện](https://tramdoc.vn/thu-vien-cnz0W.html)
+  * [Trạm Trích Dẫn](https://tramdoc.vn/tram-trich-dan-cnWoW.html)
+
+
+  * [Từ sách đến đời](https://tramdoc.vn/tu-sach-den-doi-cnE5DW.html)
+  * [Phát triển bản thân - Sự nghiệp](https://tramdoc.vn/cong-viec-cn9lxW.html)
+  * [Gia đình - Mối quan hệ ](https://tramdoc.vn/moi-quan-he-cnRlQW.html)
+  * [Sức khỏe](https://tramdoc.vn/ca-nhan-cnMEyW.html)
+  * [Du lịch - Giải trí](https://tramdoc.vn/van-hoa-cnD2OW.html)
+  * [Cống hiến xã hội](https://tramdoc.vn/cong-hien-xa-hoi-cnN5bW.html)
+  * [Thursday with Gamma](https://tramdoc.vn/thursday-with-gamma-cnZNmW.html)
+  * [Tâm Linh](https://tramdoc.vn/tam-linh-cn4dqW.html)
+
+
+  * [Sự kiện sách](https://tramdoc.vn/su-kien-sach-cn3eW.html)
+  * [Bạn đọc viết](https://tramdoc.vn/ban-doc-viet-cnN5qW.html)
+  * [Tôi đọc gì](https://tramdoc.vn/toi-doc-gi)
+  * [Sách mới](https://tramdoc.vn/sach-moi)
+  * [![](https://tramdoc.vn/themes/test_desktop/images/logo.png)](https://tramdoc.vn/)
+
+
+© 2026 Bản quyền thuộc Tramdoc.vn 
+Email: info@tramdoc.vn I Hotline: 086 990 26 28 
+  * [Hotline: 086 990 26 28 - Email: info@tramdoc.vn](https://tramdoc.vn/truyen-thong)
+  * |
+  * [Giới thiệu](https://tramdoc.vn/gioi-thieu)
+  * |
+  * [Điều khoản sử dụng](https://tramdoc.vn/dieu-khoan-su-dung)
+  * |
+  * [RSS](https://tramdoc.vn/rss.html)
+
+
