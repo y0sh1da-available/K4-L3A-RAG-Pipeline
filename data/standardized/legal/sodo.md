@@ -38,27 +38,6 @@ biết rồi, khổ lắm, nói mãi...
 
 Mời các bạn đón đọc Số Đỏ của tác giả Vũ Trọng Phụng.
 
-Chương 1
-Chương 2
-Chương 3
-Chương 4
-Chương 5
-Chương 6
-Chương 7
-Chương 8
-Chương 9
-Chương 10
-Chương 11
-Chương 12
-Chương 13
-Chương 14
-Chương 15
-Chương 16
-Chương 17
-Chương 18
-Chương 19
-Chương 20
-
 Chương 1
 
    SỐ ĐÀO HOA CỦA XUÂN TÓC ĐỎ
