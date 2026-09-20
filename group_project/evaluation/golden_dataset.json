@@ -1,0 +1,396 @@
+[
+  {
+    "id": 1,
+    "query": "Tiểu thuyết \"Số Đỏ\" là của tác giả nào và thuộc thể loại gì?",
+    "filter": {
+      "category": "legal",
+      "source_file": "sodo.md"
+    },
+    "gold_answer": "\"Số Đỏ\" là tiểu thuyết của Vũ Trọng Phụng, thuộc thể loại tiểu thuyết hài hước, trào lộng trong văn học Việt Nam.",
+    "expected_doc": "legal/sodo.md",
+    "key_terms": [
+      "Số Đỏ",
+      "Vũ Trọng Phụng",
+      "tiểu thuyết",
+      "trào lộng",
+      "hài hước"
+    ],
+    "question": "Tiểu thuyết \"Số Đỏ\" là của tác giả nào và thuộc thể loại gì?",
+    "expected_answer": "\"Số Đỏ\" là tiểu thuyết của Vũ Trọng Phụng, thuộc thể loại tiểu thuyết hài hước, trào lộng trong văn học Việt Nam.",
+    "expected_context": "Tài liệu legal/sodo.md: \"Số Đỏ\" là tiểu thuyết của Vũ Trọng Phụng, thuộc thể loại tiểu thuyết hài hước, trào lộng trong văn học Việt Nam."
+  },
+  {
+    "id": 2,
+    "query": "Số Đỏ do nhà phát hành và nhà xuất bản nào ấn hành, sách dày bao nhiêu trang?",
+    "filter": {
+      "category": "legal",
+      "source_file": "sodo.md"
+    },
+    "gold_answer": "Số Đỏ được Nhã Nam phát hành, do NXB Hội Nhà Văn xuất bản năm 2003, sách dày 237 trang, bìa mềm.",
+    "expected_doc": "legal/sodo.md",
+    "key_terms": [
+      "Nhã Nam",
+      "NXB Hội Nhà Văn",
+      "237 trang",
+      "2003"
+    ],
+    "question": "Số Đỏ do nhà phát hành và nhà xuất bản nào ấn hành, sách dày bao nhiêu trang?",
+    "expected_answer": "Số Đỏ được Nhã Nam phát hành, do NXB Hội Nhà Văn xuất bản năm 2003, sách dày 237 trang, bìa mềm.",
+    "expected_context": "Tài liệu legal/sodo.md: Số Đỏ được Nhã Nam phát hành, do NXB Hội Nhà Văn xuất bản năm 2003, sách dày 237 trang, bìa mềm."
+  },
+  {
+    "id": 3,
+    "query": "Nêu một vài nhân vật điển hình được nhắc đến trong lời giới thiệu của Số Đỏ.",
+    "filter": {
+      "category": "legal",
+      "source_file": "sodo.md"
+    },
+    "gold_answer": "Lời giới thiệu nhắc đến các nhân vật điển hình như Xuân Tóc Đỏ, bà Phó Đoan, em Chã, ông TYPN, cô Tuyết và cụ cố Hồng.",
+    "expected_doc": "legal/sodo.md",
+    "key_terms": [
+      "Xuân Tóc Đỏ",
+      "bà Phó Đoan",
+      "cụ cố Hồng",
+      "cô Tuyết"
+    ],
+    "question": "Nêu một vài nhân vật điển hình được nhắc đến trong lời giới thiệu của Số Đỏ.",
+    "expected_answer": "Lời giới thiệu nhắc đến các nhân vật điển hình như Xuân Tóc Đỏ, bà Phó Đoan, em Chã, ông TYPN, cô Tuyết và cụ cố Hồng.",
+    "expected_context": "Tài liệu legal/sodo.md: Lời giới thiệu nhắc đến các nhân vật điển hình như Xuân Tóc Đỏ, bà Phó Đoan, em Chã, ông TYPN, cô Tuyết và cụ cố Hồng."
+  },
+  {
+    "id": 4,
+    "query": "Cuốn sách \"Tuổi trẻ đáng giá bao nhiêu?\" là do ai viết?",
+    "filter": {
+      "category": "legal",
+      "source_file": "tuoitre.md"
+    },
+    "gold_answer": "Cuốn sách được viết bởi tác giả Rosie Nguyễn.",
+    "expected_doc": "legal/tuoitre.md",
+    "key_terms": [
+      "Tuổi trẻ đáng giá bao nhiêu",
+      "Rosie Nguyễn"
+    ],
+    "question": "Cuốn sách \"Tuổi trẻ đáng giá bao nhiêu?\" là do ai viết?",
+    "expected_answer": "Cuốn sách được viết bởi tác giả Rosie Nguyễn.",
+    "expected_context": "Tài liệu legal/tuoitre.md: Cuốn sách được viết bởi tác giả Rosie Nguyễn."
+  },
+  {
+    "id": 5,
+    "query": "Phần 1 của cuốn \"Tuổi trẻ đáng giá bao nhiêu?\" mang tên gì?",
+    "filter": {
+      "category": "legal",
+      "source_file": "tuoitre.md"
+    },
+    "gold_answer": "Phần 1 có tên \"Tôi đã học như thế nào?\".",
+    "expected_doc": "legal/tuoitre.md",
+    "key_terms": [
+      "Phần 1",
+      "Tôi đã học như thế nào"
+    ],
+    "question": "Phần 1 của cuốn \"Tuổi trẻ đáng giá bao nhiêu?\" mang tên gì?",
+    "expected_answer": "Phần 1 có tên \"Tôi đã học như thế nào?\".",
+    "expected_context": "Tài liệu legal/tuoitre.md: Phần 1 có tên \"Tôi đã học như thế nào?\"."
+  },
+  {
+    "id": 6,
+    "query": "Chương mở đầu của sách trích dẫn câu nói của ai, nói về điều gì?",
+    "filter": {
+      "category": "legal",
+      "source_file": "tuoitre.md"
+    },
+    "gold_answer": "Chương mở đầu \"Nếu tôi còn hai mươi\" trích dẫn câu nói của Aristotle rằng những thói quen tốt hình thành khi còn trẻ tạo nên toàn bộ sự khác biệt, chứ không phải chỉ là khác biệt nhỏ.",
+    "expected_doc": "legal/tuoitre.md",
+    "key_terms": [
+      "Nếu tôi còn hai mươi",
+      "Aristotle",
+      "thói quen tốt"
+    ],
+    "question": "Chương mở đầu của sách trích dẫn câu nói của ai, nói về điều gì?",
+    "expected_answer": "Chương mở đầu \"Nếu tôi còn hai mươi\" trích dẫn câu nói của Aristotle rằng những thói quen tốt hình thành khi còn trẻ tạo nên toàn bộ sự khác biệt, chứ không phải chỉ là khác biệt nhỏ.",
+    "expected_context": "Tài liệu legal/tuoitre.md: Chương mở đầu \"Nếu tôi còn hai mươi\" trích dẫn câu nói của Aristotle rằng những thói quen tốt hình thành khi còn trẻ tạo nên toàn bộ sự khác biệt, chứ không phải chỉ là khác biệt nhỏ."
+  },
+  {
+    "id": 7,
+    "query": "Tác giả của \"Việt Nam Sử Lược\" là ai?",
+    "filter": {
+      "category": "legal",
+      "source_file": "vnsuluoc.md"
+    },
+    "gold_answer": "Tác giả của Việt Nam Sử Lược là Trần Trọng Kim.",
+    "expected_doc": "legal/vnsuluoc.md",
+    "key_terms": [
+      "Việt Nam Sử Lược",
+      "Trần Trọng Kim"
+    ],
+    "question": "Tác giả của \"Việt Nam Sử Lược\" là ai?",
+    "expected_answer": "Tác giả của Việt Nam Sử Lược là Trần Trọng Kim.",
+    "expected_context": "Tài liệu legal/vnsuluoc.md: Tác giả của Việt Nam Sử Lược là Trần Trọng Kim."
+  },
+  {
+    "id": 8,
+    "query": "Việt Nam Sử Lược chia lịch sử nước ta ra làm mấy thời đại, gồm những thời đại nào?",
+    "filter": {
+      "category": "legal",
+      "source_file": "vnsuluoc.md"
+    },
+    "gold_answer": "Sách chia lịch sử Việt Nam ra làm 5 thời đại: Thượng Cổ thời đại, Bắc Thuộc thời đại, Tự Chủ thời đại, thời đại Nam Bắc phân tranh, và Cận Kim thời đại.",
+    "expected_doc": "legal/vnsuluoc.md",
+    "key_terms": [
+      "5 thời đại",
+      "Thượng Cổ",
+      "Bắc Thuộc",
+      "Tự Chủ",
+      "Nam Bắc phân tranh",
+      "Cận Kim"
+    ],
+    "question": "Việt Nam Sử Lược chia lịch sử nước ta ra làm mấy thời đại, gồm những thời đại nào?",
+    "expected_answer": "Sách chia lịch sử Việt Nam ra làm 5 thời đại: Thượng Cổ thời đại, Bắc Thuộc thời đại, Tự Chủ thời đại, thời đại Nam Bắc phân tranh, và Cận Kim thời đại.",
+    "expected_context": "Tài liệu legal/vnsuluoc.md: Sách chia lịch sử Việt Nam ra làm 5 thời đại: Thượng Cổ thời đại, Bắc Thuộc thời đại, Tự Chủ thời đại, thời đại Nam Bắc phân tranh, và Cận Kim thời đại."
+  },
+  {
+    "id": 9,
+    "query": "Theo Việt Nam Sử Lược, diện tích cả nước và diện tích từng miền Bắc Việt, Trung Việt, Nam Việt là bao nhiêu?",
+    "filter": {
+      "category": "legal",
+      "source_file": "vnsuluoc.md"
+    },
+    "gold_answer": "Diện tích cả nước khoảng 312.000 km², trong đó Bắc Việt khoảng 105.000 km², Trung Việt khoảng 150.000 km², và Nam Việt khoảng 57.000 km².",
+    "expected_doc": "legal/vnsuluoc.md",
+    "key_terms": [
+      "312.000 km2",
+      "Bắc Việt 105.000",
+      "Trung Việt 150.000",
+      "Nam Việt 57.000"
+    ],
+    "question": "Theo Việt Nam Sử Lược, diện tích cả nước và diện tích từng miền Bắc Việt, Trung Việt, Nam Việt là bao nhiêu?",
+    "expected_answer": "Diện tích cả nước khoảng 312.000 km², trong đó Bắc Việt khoảng 105.000 km², Trung Việt khoảng 150.000 km², và Nam Việt khoảng 57.000 km².",
+    "expected_context": "Tài liệu legal/vnsuluoc.md: Diện tích cả nước khoảng 312.000 km², trong đó Bắc Việt khoảng 105.000 km², Trung Việt khoảng 150.000 km², và Nam Việt khoảng 57.000 km²."
+  },
+  {
+    "id": 10,
+    "query": "Ai là người đặt quốc hiệu nước ta là \"Việt Nam\", và vào năm nào?",
+    "filter": {
+      "category": "legal",
+      "source_file": "vnsuluoc.md"
+    },
+    "gold_answer": "Vua Gia Long, sau khi thống nhất được cả Nam Bắc vào năm 1802, đã đặt quốc hiệu nước ta là Việt Nam (lấy chữ Nam từ An Nam và chữ Việt từ Việt Thường).",
+    "expected_doc": "legal/vnsuluoc.md",
+    "key_terms": [
+      "Gia Long",
+      "1802",
+      "quốc hiệu Việt Nam",
+      "An Nam",
+      "Việt Thường"
+    ],
+    "question": "Ai là người đặt quốc hiệu nước ta là \"Việt Nam\", và vào năm nào?",
+    "expected_answer": "Vua Gia Long, sau khi thống nhất được cả Nam Bắc vào năm 1802, đã đặt quốc hiệu nước ta là Việt Nam (lấy chữ Nam từ An Nam và chữ Việt từ Việt Thường).",
+    "expected_context": "Tài liệu legal/vnsuluoc.md: Vua Gia Long, sau khi thống nhất được cả Nam Bắc vào năm 1802, đã đặt quốc hiệu nước ta là Việt Nam (lấy chữ Nam từ An Nam và chữ Việt từ Việt Thường)."
+  },
+  {
+    "id": 11,
+    "query": "Cuốn sách mới của Angela Duckworth được nhắc đến trong bài viết có tên tiếng Anh là gì?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_01.md"
+    },
+    "gold_answer": "Cuốn sách có tên \"Situated: Find the People and Places That Bring Out Your Best\", được tạm dịch là \"Sức mạnh của môi trường - Tìm kiếm những con người và môi trường giúp bạn phát huy tốt nhất\".",
+    "expected_doc": "news/article_01.md",
+    "key_terms": [
+      "Situated",
+      "Angela Duckworth",
+      "Sức mạnh của môi trường"
+    ],
+    "question": "Cuốn sách mới của Angela Duckworth được nhắc đến trong bài viết có tên tiếng Anh là gì?",
+    "expected_answer": "Cuốn sách có tên \"Situated: Find the People and Places That Bring Out Your Best\", được tạm dịch là \"Sức mạnh của môi trường - Tìm kiếm những con người và môi trường giúp bạn phát huy tốt nhất\".",
+    "expected_context": "Tài liệu news/article_01.md: Cuốn sách có tên \"Situated: Find the People and Places That Bring Out Your Best\", được tạm dịch là \"Sức mạnh của môi trường - Tìm kiếm những con người và môi trường giúp bạn phát huy tốt nhất\"."
+  },
+  {
+    "id": 12,
+    "query": "Angela Duckworth là nhà tâm lý học giảng dạy tại trường đại học nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_01.md"
+    },
+    "gold_answer": "Bà là nhà tâm lý học tại Đại học Pennsylvania (Penn).",
+    "expected_doc": "news/article_01.md",
+    "key_terms": [
+      "Đại học Pennsylvania",
+      "Angela Duckworth"
+    ],
+    "question": "Angela Duckworth là nhà tâm lý học giảng dạy tại trường đại học nào?",
+    "expected_answer": "Bà là nhà tâm lý học tại Đại học Pennsylvania (Penn).",
+    "expected_context": "Tài liệu news/article_01.md: Bà là nhà tâm lý học tại Đại học Pennsylvania (Penn)."
+  },
+  {
+    "id": 13,
+    "query": "Cody Coleman, người được Duckworth lấy làm ví dụ trong bài, có nền tảng học vấn và sự nghiệp như thế nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_01.md"
+    },
+    "gold_answer": "Cody Coleman đạt điểm trung bình gần như tuyệt đối tại MIT, từng thực tập tại Google, lấy bằng tiến sĩ khoa học máy tính tại Stanford, và hiện điều hành công ty AI Coactive.",
+    "expected_doc": "news/article_01.md",
+    "key_terms": [
+      "Cody Coleman",
+      "MIT",
+      "Stanford",
+      "Coactive"
+    ],
+    "question": "Cody Coleman, người được Duckworth lấy làm ví dụ trong bài, có nền tảng học vấn và sự nghiệp như thế nào?",
+    "expected_answer": "Cody Coleman đạt điểm trung bình gần như tuyệt đối tại MIT, từng thực tập tại Google, lấy bằng tiến sĩ khoa học máy tính tại Stanford, và hiện điều hành công ty AI Coactive.",
+    "expected_context": "Tài liệu news/article_01.md: Cody Coleman đạt điểm trung bình gần như tuyệt đối tại MIT, từng thực tập tại Google, lấy bằng tiến sĩ khoa học máy tính tại Stanford, và hiện điều hành công ty AI Coactive."
+  },
+  {
+    "id": 14,
+    "query": "Amanda Nguyễn đã lập nên cột mốc gì cho người gốc Việt, vào thời điểm nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_02.md"
+    },
+    "gold_answer": "Amanda Nguyễn trở thành người phụ nữ gốc Việt đầu tiên bay vào vũ trụ, trên chuyến bay NS-31 của Blue Origin, cất cánh lúc 8 giờ 30 tối ngày 14/4/2025 (giờ Hà Nội).",
+    "expected_doc": "news/article_02.md",
+    "key_terms": [
+      "Amanda Nguyễn",
+      "Blue Origin",
+      "NS-31",
+      "14/4/2025",
+      "phụ nữ gốc Việt đầu tiên bay vào vũ trụ"
+    ],
+    "question": "Amanda Nguyễn đã lập nên cột mốc gì cho người gốc Việt, vào thời điểm nào?",
+    "expected_answer": "Amanda Nguyễn trở thành người phụ nữ gốc Việt đầu tiên bay vào vũ trụ, trên chuyến bay NS-31 của Blue Origin, cất cánh lúc 8 giờ 30 tối ngày 14/4/2025 (giờ Hà Nội).",
+    "expected_context": "Tài liệu news/article_02.md: Amanda Nguyễn trở thành người phụ nữ gốc Việt đầu tiên bay vào vũ trụ, trên chuyến bay NS-31 của Blue Origin, cất cánh lúc 8 giờ 30 tối ngày 14/4/2025 (giờ Hà Nội)."
+  },
+  {
+    "id": 15,
+    "query": "Cuốn hồi ký của Amanda Nguyễn có tên gì, do đơn vị nào xuất bản và khi nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_02.md"
+    },
+    "gold_answer": "Cuốn hồi ký mang tên \"Saving Five - Hồi ký của hy vọng\", xuất bản đầu tháng 3 năm 2025 bởi AUWA, một nhánh của nhà xuất bản Macmillan.",
+    "expected_doc": "news/article_02.md",
+    "key_terms": [
+      "Saving Five",
+      "Hồi ký của hy vọng",
+      "AUWA",
+      "Macmillan"
+    ],
+    "question": "Cuốn hồi ký của Amanda Nguyễn có tên gì, do đơn vị nào xuất bản và khi nào?",
+    "expected_answer": "Cuốn hồi ký mang tên \"Saving Five - Hồi ký của hy vọng\", xuất bản đầu tháng 3 năm 2025 bởi AUWA, một nhánh của nhà xuất bản Macmillan.",
+    "expected_context": "Tài liệu news/article_02.md: Cuốn hồi ký mang tên \"Saving Five - Hồi ký của hy vọng\", xuất bản đầu tháng 3 năm 2025 bởi AUWA, một nhánh của nhà xuất bản Macmillan."
+  },
+  {
+    "id": 16,
+    "query": "Amanda Nguyễn đã góp phần soạn thảo và thúc đẩy thông qua đạo luật liên bang nào, vào năm nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_02.md"
+    },
+    "gold_answer": "Bà góp phần soạn thảo Đạo luật về Quyền của Người sống sót sau tấn công tình dục (Sexual Assault Survivors' Bill of Rights Act), được Quốc hội Hoa Kỳ thông qua năm 2016 với sự đồng thuận tuyệt đối.",
+    "expected_doc": "news/article_02.md",
+    "key_terms": [
+      "Sexual Assault Survivors' Bill of Rights Act",
+      "2016",
+      "rape kit"
+    ],
+    "question": "Amanda Nguyễn đã góp phần soạn thảo và thúc đẩy thông qua đạo luật liên bang nào, vào năm nào?",
+    "expected_answer": "Bà góp phần soạn thảo Đạo luật về Quyền của Người sống sót sau tấn công tình dục (Sexual Assault Survivors' Bill of Rights Act), được Quốc hội Hoa Kỳ thông qua năm 2016 với sự đồng thuận tuyệt đối.",
+    "expected_context": "Tài liệu news/article_02.md: Bà góp phần soạn thảo Đạo luật về Quyền của Người sống sót sau tấn công tình dục (Sexual Assault Survivors' Bill of Rights Act), được Quốc hội Hoa Kỳ thông qua năm 2016 với sự đồng thuận tuyệt đối."
+  },
+  {
+    "id": 17,
+    "query": "\"Thượng Thư\" do ai san định, gồm bao nhiêu thiên và chia làm mấy phần?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_03.md"
+    },
+    "gold_answer": "\"Thượng Thư\" do Khổng Tử san định, gồm 58 thiên, chia thành bốn phần: Ngu thư (5 thiên), Hạ thư (4 thiên), Thương thư (17 thiên) và Chu thư (32 thiên).",
+    "expected_doc": "news/article_03.md",
+    "key_terms": [
+      "Thượng Thư",
+      "Khổng Tử",
+      "58 thiên",
+      "Ngu thư",
+      "Hạ thư",
+      "Thương thư",
+      "Chu thư"
+    ],
+    "question": "\"Thượng Thư\" do ai san định, gồm bao nhiêu thiên và chia làm mấy phần?",
+    "expected_answer": "\"Thượng Thư\" do Khổng Tử san định, gồm 58 thiên, chia thành bốn phần: Ngu thư (5 thiên), Hạ thư (4 thiên), Thương thư (17 thiên) và Chu thư (32 thiên).",
+    "expected_context": "Tài liệu news/article_03.md: \"Thượng Thư\" do Khổng Tử san định, gồm 58 thiên, chia thành bốn phần: Ngu thư (5 thiên), Hạ thư (4 thiên), Thương thư (17 thiên) và Chu thư (32 thiên)."
+  },
+  {
+    "id": 18,
+    "query": "Bản dịch \"Thượng Thư\" được nhắc trong bài là của dịch giả nào, tái bản theo ấn bản năm nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_03.md"
+    },
+    "gold_answer": "Bản dịch của học giả Nhượng Tống, được tái bản theo bản in của Nhà xuất bản Tân Việt năm 1963.",
+    "expected_doc": "news/article_03.md",
+    "key_terms": [
+      "Nhượng Tống",
+      "Tân Việt",
+      "1963"
+    ],
+    "question": "Bản dịch \"Thượng Thư\" được nhắc trong bài là của dịch giả nào, tái bản theo ấn bản năm nào?",
+    "expected_answer": "Bản dịch của học giả Nhượng Tống, được tái bản theo bản in của Nhà xuất bản Tân Việt năm 1963.",
+    "expected_context": "Tài liệu news/article_03.md: Bản dịch của học giả Nhượng Tống, được tái bản theo bản in của Nhà xuất bản Tân Việt năm 1963."
+  },
+  {
+    "id": 19,
+    "query": "\"Lá thư tái sinh\" của tác giả nào, gồm bao nhiêu lá thư và chia làm mấy phần?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_04.md"
+    },
+    "gold_answer": "Sách của tác giả Mila Lê, gồm 45 lá thư, chia làm ba phần: \"Nhìn lại quá khứ\" (15 thư), \"Đối diện với chính mình\" (18 thư), và \"Tái sinh và bước tiếp\" (12 thư).",
+    "expected_doc": "news/article_04.md",
+    "key_terms": [
+      "Lá thư tái sinh",
+      "Mila Lê",
+      "45 lá thư",
+      "Nhìn lại quá khứ",
+      "Tái sinh và bước tiếp"
+    ],
+    "question": "\"Lá thư tái sinh\" của tác giả nào, gồm bao nhiêu lá thư và chia làm mấy phần?",
+    "expected_answer": "Sách của tác giả Mila Lê, gồm 45 lá thư, chia làm ba phần: \"Nhìn lại quá khứ\" (15 thư), \"Đối diện với chính mình\" (18 thư), và \"Tái sinh và bước tiếp\" (12 thư).",
+    "expected_context": "Tài liệu news/article_04.md: Sách của tác giả Mila Lê, gồm 45 lá thư, chia làm ba phần: \"Nhìn lại quá khứ\" (15 thư), \"Đối diện với chính mình\" (18 thư), và \"Tái sinh và bước tiếp\" (12 thư)."
+  },
+  {
+    "id": 20,
+    "query": "Tác giả cuốn \"Đi tìm hiện tại\" là ai và từng làm biên tập viên cao cấp cho những tạp chí nào?",
+    "filter": {
+      "category": "news",
+      "source_file": "article_05.md"
+    },
+    "gold_answer": "Tác giả là Jo Marchant, nhà báo khoa học từng làm biên tập viên cao cấp của New Scientist và Nature.",
+    "expected_doc": "news/article_05.md",
+    "key_terms": [
+      "Jo Marchant",
+      "New Scientist",
+      "Nature"
+    ],
+    "question": "Tác giả cuốn \"Đi tìm hiện tại\" là ai và từng làm biên tập viên cao cấp cho những tạp chí nào?",
+    "expected_answer": "Tác giả là Jo Marchant, nhà báo khoa học từng làm biên tập viên cao cấp của New Scientist và Nature.",
+    "expected_context": "Tài liệu news/article_05.md: Tác giả là Jo Marchant, nhà báo khoa học từng làm biên tập viên cao cấp của New Scientist và Nature."
+  },
+  {
+    "id": 21,
+    "query": "Nêu tên một cuốn sách bán chạy khác của Jo Marchant được nhắc đến trong bài viết.",
+    "filter": {
+      "category": "news",
+      "source_file": "article_05.md"
+    },
+    "gold_answer": "Một số sách bán chạy khác của bà được nhắc tới gồm \"Decoding the Heavens\", \"The Shadow King\" và \"The Human Cosmos\".",
+    "expected_doc": "news/article_05.md",
+    "key_terms": [
+      "Decoding the Heavens",
+      "The Shadow King",
+      "The Human Cosmos"
+    ],
+    "question": "Nêu tên một cuốn sách bán chạy khác của Jo Marchant được nhắc đến trong bài viết.",
+    "expected_answer": "Một số sách bán chạy khác của bà được nhắc tới gồm \"Decoding the Heavens\", \"The Shadow King\" và \"The Human Cosmos\".",
+    "expected_context": "Tài liệu news/article_05.md: Một số sách bán chạy khác của bà được nhắc tới gồm \"Decoding the Heavens\", \"The Shadow King\" và \"The Human Cosmos\"."
+  }
+]
