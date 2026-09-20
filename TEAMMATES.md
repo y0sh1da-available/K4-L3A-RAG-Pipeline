@@ -43,8 +43,8 @@
 
 ### Thành viên 3: Đức
 
-* **Họ và tên:** *(Sẽ điền sau)*
-* **Mã học viên:** *(Sẽ điền sau)*
+* **Họ và tên:** Nguyễn Minh Đức
+* **Mã học viên:** 2A202602783
 * **Vai trò:** Vai trò 3 — Pipeline, Generation & UI Lead
 * **Nhánh làm việc:** `feature/duc`
 * **Phần việc phụ trách:**
@@ -53,7 +53,7 @@
   - Task 10: Generation có Citation và Safe refusal (`task10_generation.py`)
   - Streamlit Chatbot UI: Giao diện hiển thị nguồn và câu trả lời (`app.py`)
   - Đánh giá RAGAS (4 metric) & hoàn thiện báo cáo nhóm `RESULT.md`
-  - Báo cáo cá nhân: `reports/<student-id>-duc.md`
+  - Báo cáo cá nhân: `reports/2A202602783-NgMinhDuc.md`
 
 ---
 
