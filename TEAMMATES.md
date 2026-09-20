@@ -25,7 +25,7 @@
 
 ### Thành viên 2: Cương
 * **Họ và tên:** *(Sẽ điền sau)*
-* **Mã học viên:** *(Sẽ điền sau)*
+* **Mã học viên:** 2A202602572
 * **Vai trò:** Vai trò 2 — Search Engine Core Specialist
 * **Nhánh làm việc:** `feature/cuong`
 * **Phần việc phụ trách:**
@@ -34,7 +34,7 @@
   - Task 6: Lexical Search BM25 (`task6_lexical_search.py`)
   - Task 7: RRF Reranking (`task7_reranking.py`)
   - Đóng góp 7 câu hỏi Q&A vào `golden_dataset.json`
-  - Báo cáo cá nhân: `reports/<student-id>-cuong.md`
+  - Báo cáo cá nhân: `reports/2A202602572-Cuong.md`
 
 ---
 
