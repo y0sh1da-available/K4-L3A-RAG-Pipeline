@@ -12,8 +12,8 @@
 
 ### Thành viên 1: Lộc
 
-* **Họ và tên:** *(Sẽ điền sau)*
-* **Mã học viên:** *(Sẽ điền sau)*
+* **Họ và tên:** Trần Đức Lộc
+* **Mã học viên:** 2A202602431
 * **Vai trò:** Vai trò 1 — Data & Ingestion Specialist
 * **Nhánh làm việc:** `feature/loc`
 * **Phần việc phụ trách:**
@@ -21,7 +21,7 @@
   - Task 2: Crawl và xuất bài viết JSON (`task2_crawl_news.py`)
   - Task 3: Chuẩn hóa dữ liệu sang Markdown (`task3_convert_markdown.py`)
   - Đóng góp 8 câu hỏi Q&A vào `golden_dataset.json`
-  - Báo cáo cá nhân: `reports/<student-id>-loc.md`
+  - Báo cáo cá nhân: `reports/2A202602431-loc.md`
 
 ---
 
