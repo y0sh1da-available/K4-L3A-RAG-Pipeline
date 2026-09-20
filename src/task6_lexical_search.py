@@ -5,15 +5,21 @@ Dùng cùng corpus chunks với Task 5. BM25 phù hợp với từ khóa chính 
 liệu và tên riêng. Output phải theo SearchResult và sort score giảm dần.
 """
 
+import re
 import numpy as np
 from rank_bm25 import BM25L
 
 CORPUS: list[dict] = []
 
 
+def _tokenize(text: str) -> list[str]:
+    """Tách từ chuẩn xác: xử lý dấu gạch nối (Trưng-Trắc -> Trưng, Trắc) và loại bỏ dấu câu."""
+    return re.findall(r"\w+", text.lower())
+
+
 def build_bm25_index(corpus: list[dict]):
     """Tạo BM25 index từ cùng corpus chunks của Task 4."""
-    tokenized = [item["content"].lower().split() for item in corpus]
+    tokenized = [_tokenize(item["content"]) for item in corpus]
     return BM25L(tokenized)
 
 
@@ -27,7 +33,7 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     if not CORPUS:
         return []
 
-    tokens = query.lower().split()
+    tokens = _tokenize(query)
     if not tokens:
         return []
 
